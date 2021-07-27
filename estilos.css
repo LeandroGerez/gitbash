@@ -2,6 +2,19 @@
     padding: 0; margin: 0;
 }
 
+
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+
 body{
     background-color: green;
+    font-family: "zen tokyo zoo", sans-serif;
+}
+
+h1{
+    color: red;
+}
+.estilo{ width: 100%;
+    background-color: rosybrown;
+
+
 }
